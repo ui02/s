@@ -34,12 +34,24 @@
   url = "/tags/dailylife/"
   parent = "tags"  
 
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
+#  [[main]]
+#  name = "Accomplishments"
+#  weight = 500
+#  identifier = "accomplishments"
+
+#  [[main]]
+#  name = "Awards"
+#  weight = 510
+#  identifier = "awards"
+#  url = "/awards/"
+#  parent = "accomplishments"  
+
+#  [[main]]
+#  name = "Certifications"
+#  weight = 520
+#  identifier = "certifications"
+#  url = "/certifications/"
+#  parent = "accomplishments"
 
 #  [[main]]
 #  name = "Contact"
