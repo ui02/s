@@ -23,7 +23,7 @@
   url = "/about/"
 
   [[main]]
-  name = "Tags"
+  name = "#Tags"
   weight = 500
   identifier = "tags"
 
