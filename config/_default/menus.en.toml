@@ -22,25 +22,6 @@
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-  name = "#Tags"
-  weight = 500
-  identifier = "tags"
-
-  [[main]]
-  name = "Daily Life"
-  weight = 510
-  identifier = "dailylife"
-  url = "/tags/dailylife/"
-  parent = "tags"  
-
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "tags"
-
 #  [[main]]
 #  name = "Accomplishments"
 #  weight = 500
