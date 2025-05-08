@@ -5,6 +5,7 @@ draft: false
 tags:
   - demo
   - shortcode
+draft: true
 ---
 
 The notice shortcode supports three different types of disclaimers. These are as following:
