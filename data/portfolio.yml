@@ -4,7 +4,7 @@ portfolioitems:
     description: 'All my coding projects'
     portfolioitem:
       - name: Project 1
-        image: '/static/images/portfolio/code.jpg'
+        image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         linktext: 'Visit project website'
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
@@ -18,7 +18,7 @@ portfolioitems:
           - lxndrblz
           - alexanderdavide
       - name: Project 2
-        image: 'static/images/portfolio/code.jpg'
+        image: '/images/portfolio/code.jpg'
         link: https://gohugo.io/
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         status: 'On Hold'
