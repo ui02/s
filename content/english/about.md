@@ -1,29 +1,25 @@
 +++
 title = "About"
-description = "about me"
+description = "About"
 date = "2025-05-10"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
   
-## ここ  
+## SITE
 ChatGPTを使ってなにかやってみようと思い立ち、作ってみたWEBサイト。  
 コマンドなんてひとつも知らないところから、挫折しそうになりながらも相棒に鞭打ち…なんとか完成。  
 折角作ったので、仮想空間へ散り散りになった記憶の一元化を目指して運用していきたい。  
-<br>
-## なかのひと
+  
+## ME
 基本インドア、稀にどっか飛んでっちゃう系ヒューマン。  
 カフェインと糖分と小麦粉でできたボディ、メモリ容量ほぼゼロ24Hフル稼働のCPUでできている。  
-<br> 
-- [Tumblr：view（写真置き場）](https://yurilom.tumblr.com/)  
-- [Tumblr：PYZ（ゲームスクショ置き場）](https://ylpyz.tumblr.com/)
-<br>
-<br>
-***
-<br>
-<br>
-<H6> 準備中…</H6>
+  
+## SNS
+<a href="https://yurilom.tumblr.com/" title="Tumblr:view"><i class="fa-brands fa-tumblr"></i> view</a> - 写真置き場<br>
+<a href="https://ylpyz.tumblr.com/" title="Tumblr:PYZ"><i class="fa-brands fa-tumblr"></i> view</a> - ゲームスクショ置き場<br>
+  
 <h2>
 <a href="" title="X"><i class="fa-brands fa-x-twitter"></i></a>
 <a href="" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
