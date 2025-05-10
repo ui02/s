@@ -3,32 +3,26 @@ portfolioitems:
   - title: Sample Projects
     description: 'All my projects'
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
+      - name: 2025
+        image: '/images/portfolio/02.jpg'
         link: https://
         linktext: 'Visit  website'
         description: 'one.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
-        authors:
-          - ui02
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://
-        description: ' two.'
-        status: 'On Hold'
+          - Dailylife
+          - sea
+      - name: 2024
+        image: '/images/portfolio/01.jpg'
+        link: https://yurilom.tumblr.com/tagged/overseas
+        description: ' Places I visited.'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://
-        status: 'Finished'
-        description: 'three.'
+          - Thailand
+          - Taiwan
+      - name: 
+        link: 
+        status: ''
+        description: ''
         tags:
-          - Tag 1
-          - Tag 2
+          - 
+          - 
 
