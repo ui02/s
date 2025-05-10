@@ -1,3 +1,14 @@
+---
+author: "ylpyz1989"
+title: ""
+date: "2025-05-01"
+description: "thumb"
+tags:
+  - dailylife
+thumbnail: "/s/images/20250501.jpg"
+draft: false
+---
+
 ![image](https://64.media.tumblr.com/e90374196b26fa25c0de947fd5f431b5/6b1c28506215fac4-27/s500x750/6d00316400f3e769b2b59a99cb25c421d8c75fd1.jpg)
 
 日本橋tealのジェラートうまだった！！！ジェラートの写真は忘れた！！ホントはチョコプリン食べたかったんだけど時間なくてまたこんど！
