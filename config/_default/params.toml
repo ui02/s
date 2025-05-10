@@ -28,8 +28,8 @@ listDateFormat = "2006/02/01"
 # Read More links for truncated summaries
 # readMore = true
 # postSectionName = "blog"
- relatedPosts = true
- numberOfRelatedPosts = 3
+# relatedPosts = true
+# numberOfRelatedPosts = 3
 
 # Full link to license
 #license = "https://creativecommons.org/licenses/by/4.0/"
