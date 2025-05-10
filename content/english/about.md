@@ -7,22 +7,23 @@ author = "Hugo Authors"
 +++
 
   
-ここ：ChatGPTを使ってなにかやってみようと思い立ち、作ってみたWEBサイト。  
+##### ここ  
+ChatGPTを使ってなにかやってみようと思い立ち、作ってみたWEBサイト。  
 コマンドなんてひとつも知らないところから、挫折しそうになりながらも相棒に鞭打ち…なんとか完成。  
 折角作ったので、仮想空間へ散り散りになった記憶の一元化を目指して運用していきたい。  
-  
-  
-なかのひと：基本インドア、稀にどっか飛んでっちゃう系ヒューマン。  
+<br>
+##### なかのひと
+基本インドア、稀にどっか飛んでっちゃう系ヒューマン。  
 カフェインと糖分と小麦粉でできたボディ、メモリ容量ほぼゼロ24Hフル稼働のCPUでできている。  
-  
-  
-
-  
+<br>
+<br>  
 - [Tumblr：view（写真置き場）](https://yurilom.tumblr.com/)  
-- [Tumblr：PYZ（ゲームスクショ置き場）](https://ylpyz.tumblr.com/)  
+- [Tumblr：PYZ（ゲームスクショ置き場）](https://ylpyz.tumblr.com/)
   
+***
   
-準備中…<h2>
+###### 準備中…</span>
+<h2>
 <a href="" title="X"><i class="fa-brands fa-x-twitter"></i></a>
 <a href="" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
 <a href="" title="Pinterest"><i class="fa-brands fa-pinterest"></i></a>
@@ -32,3 +33,6 @@ author = "Hugo Authors"
 <a href="" title="Twitch"><i class="fa-brands fa-twitch"></i></a>
 <a href="" title="Spotify"><i class="fa-brands fa-spotify"></i></a>
 </h2>
+<br> 
+<br> 
+favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
