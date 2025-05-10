@@ -4,7 +4,7 @@ title: ""
 date: "2025-05-01"
 description: "thumb"
 tags:
-  - dailylife
+  - private
 thumbnail: "/s/images/20250501.jpg"
 draft: false
 ---
