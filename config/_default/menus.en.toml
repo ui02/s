@@ -11,10 +11,10 @@
   url = "/post/"
   
   [[main]]
-  name = "Private"
+  name = "Murmur"
   weight = 300
-  identifier = "private"
-  url = "/private/"
+  identifier = "murmur"
+  url = "/murmur/"
 
   [[main]]
   name = "Portfolio"
