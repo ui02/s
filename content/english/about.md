@@ -15,8 +15,7 @@ ChatGPTを使ってなにかやってみようと思い立ち、作ってみたW
 ## なかのひと
 基本インドア、稀にどっか飛んでっちゃう系ヒューマン。  
 カフェインと糖分と小麦粉でできたボディ、メモリ容量ほぼゼロ24Hフル稼働のCPUでできている。  
-<br>
-<br>  
+<br> 
 - [Tumblr：view（写真置き場）](https://yurilom.tumblr.com/)  
 - [Tumblr：PYZ（ゲームスクショ置き場）](https://ylpyz.tumblr.com/)
 <br>
@@ -24,7 +23,7 @@ ChatGPTを使ってなにかやってみようと思い立ち、作ってみたW
 ***
 <br>
 <br>
-###### 準備中…</span>
+<H6> 準備中…</H6>
 <h2>
 <a href="" title="X"><i class="fa-brands fa-x-twitter"></i></a>
 <a href="" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
