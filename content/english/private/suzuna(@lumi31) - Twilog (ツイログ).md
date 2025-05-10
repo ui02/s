@@ -1,10 +1,20 @@
--   [](https://twilog.togetter.com/ "Twilog ホーム")
+---
+author: "ylpyz1989"
+title: "2025 05 10 Secret"
+date: "2025-05-07T13:57:32Z"
+description: "thumb"
+tags:
+  - private
+thumbnail: "https://pbs.twimg.com/profile_banners/103171670/1355341386/ipad"
+draft: false
+---
+    -   [](https://twilog.togetter.com/ "Twilog ホーム")
 
 -   [@lumi31](https://twilog.togetter.com/lumi31)
 
 -   ツイート
 
-![](https://pbs.twimg.com/profile_banners/103171670/1355341386/ipad)
+![]()
 
 [![](https://pbs.twimg.com/profile_images/654507802/twi_200x200.jpg)](https://twilog.togetter.com/lumi31 "@lumi31のTwilogへ")
 
