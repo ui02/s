@@ -9,27 +9,33 @@
   weight = 200
   identifier = "posts"
   url = "/post/"
+  
+  [[main]]
+  name = "Private"
+  weight = 300
+  identifier = "private"
+  url = "/private/"
 
   [[main]]
   name = "Portfolio"
-  weight = 300
+  weight = 400
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
   name = "About"
-  weight = 400
+  weight = 500
   identifier = "about"
   url = "/about/"
 
   [[main]]
   name = "Tags"
-  weight = 500
+  weight = 600
   identifier = "tags"
 
   [[main]]
   name = "Daily Life"
-  weight = 510
+  weight = 610
   identifier = "dailylife"
   url = "/tags/dailylife/"
   parent = "tags"  
