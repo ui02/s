@@ -5,7 +5,7 @@ draft: false
 tags:
   - demo
   - shortcode
-draft: true
+draft: false
 ---
 
 Hugo has `figure` shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:
