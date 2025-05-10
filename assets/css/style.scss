@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+    &-item {
+      padding: 16px 0;
+      text-transform: uppercase;
+      text-align: center;
+      white-space: nowrap;
