@@ -6,7 +6,7 @@ description = "Sample article showcasing basic Markdown syntax and formatting fo
 tags = [
     "markdown",
     "css",
-    "html",
+    "html", "private"
 ]
 categories = [
     "themes",
