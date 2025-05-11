@@ -9,12 +9,6 @@
   weight = 200
   identifier = "posts"
   url = "/post/"
-  
-  [[main]]
-  name = "Murmur"
-  weight = 300
-  identifier = "murmur"
-  url = "/murmur/"
 
   [[main]]
   name = "Portfolio"
