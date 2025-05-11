@@ -8,6 +8,17 @@
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ui02.github.io/s/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://ui02.github.io/s/post/iolite/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ui02.github.io/s/post/iolite/</guid>
+      
+        <description>thumb</description>
+      
+    </item>
+    
+    <item>
       <title>gw2025 thumbnails</title>
       <link>https://ui02.github.io/s/post/2025-05-01/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
@@ -15,6 +26,17 @@
       <guid>https://ui02.github.io/s/post/2025-05-01/</guid>
       
         <description>thumb</description>
+      
+    </item>
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://ui02.github.io/s/post/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://ui02.github.io/s/post/figure-shortcode/</guid>
+      
+        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
       
     </item>
     
