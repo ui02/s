@@ -29,5 +29,5 @@ ChatGPTを使ってなにかやってみようと思い立ち、作ってみたW
 <a href="" title="Youtube"><i class="fa-brands fa-youtube"></i></a>
 <a href="" title="Twitch"><i class="fa-brands fa-twitch"></i></a>
 <a href="" title="Spotify"><i class="fa-brands fa-spotify"></i></a>
-</h2>
 favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
+</h2>
