@@ -4,7 +4,7 @@ title = "Redirect"
 date = "2021-06-20"
 description = "Usage of redirectUrl"
 tags = [
-    "redirect", "redirectUrl",
+    "redirect", "redirectUrl", "private"
 ]
 redirectUrl="https://gohugo.io"
 +++
