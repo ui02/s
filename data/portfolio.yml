@@ -1,9 +1,9 @@
 portfolioitems:
   # portfolio category
-  - title: Album 1
-    description: '準備中…'
+  - title: 準備中…
+    description: '…'
     portfolioitem:
-      - name: Album 1
+      - name: Project 1
         image: '/s/images/portfolio/IMG_5899-50.JPG'
         link: https://
         linktext: 'Visit gallery'
@@ -36,7 +36,7 @@ portfolioitems:
           - Tag 1
           - Tag 2
   # portfolio category
-  - title: Album 2
+  - title: 2
     description: '準備中…'
     portfolioitem:
       - name: Project 1
