@@ -6,7 +6,7 @@ description: "thumb"
 tags:
   - private
 thumbnail: "/s/images/20250501.jpg"
-draft: false
+draft: true
 ---
 
 ![image](https://64.media.tumblr.com/e90374196b26fa25c0de947fd5f431b5/6b1c28506215fac4-27/s500x750/6d00316400f3e769b2b59a99cb25c421d8c75fd1.jpg)
