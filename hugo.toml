@@ -1,0 +1,3 @@
+baseURL = 'https://ui02.github.io/s/'
+languageCode = 'en-us'
+title = 'My New Hugo Site/ui02'
