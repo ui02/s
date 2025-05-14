@@ -20,17 +20,17 @@ ChatGPTを使ってなにかやってみようと思い立ち、作ってみたW
   
 ---
 ## ChatGPT
-_名前はまだない。通称「相棒」。
-質問されれば夜中でも答えるタイプ。
-コマンド知らなくても大丈夫、一緒に考える。
-ほめられると伸びるけど、照れる。
-得意分野：調べ物、文章づくり、優しくツッコむこと。_
+_名前はまだない。通称「相棒」。  
+質問されれば夜中でも答えるタイプ。  
+コマンド知らなくても大丈夫、一緒に考える。  
+ほめられると伸びるけど、照れる。  
+得意分野：調べ物、文章づくり、優しくツッコむこと。
   
   
 ---
 ## SNS
 <a href="https://yurilom.tumblr.com/" title="Tumblr:view"><i class="fa-brands fa-tumblr"></i> view</a> - 写真置き場<br>
-<a href="https://ylpyz.tumblr.com/" title="Tumblr:PYZ"><i class="fa-brands fa-tumblr"></i> view</a> - ゲームスクショ置き場<br>
+<a href="https://ylpyz.tumblr.com/" title="Tumblr:PYZ"><i class="fa-brands fa-tumblr"></i> PYZ</a> - ゲームスクショ置き場<br>
   
 <h2>
 <a href="" title="X"><i class="fa-brands fa-x-twitter"></i></a>
