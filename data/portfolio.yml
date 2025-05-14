@@ -9,14 +9,14 @@ portfolioitems:
         #linktext: 'Visit gallery'
         #description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         #tags:
-          - Tag 1
-          - Tag 2
+          #- Tag 1
+          #- Tag 2
         #status: 'Finished'
         #start: '2025'
         #end: '2021'
         #authors:
-          - one
-          - two
+          #- one
+          #- two
       - name: #02
         image: '/s/images/portfolio/IMG_5899-50.JPG'
         #link: https://
@@ -24,8 +24,8 @@ portfolioitems:
         #description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         #status: 'On Hold'
         #tags:
-          - Tag 1
-          - Tag 2
+          #- Tag 1
+          #- Tag 2
       - name: #03
         image: '/s/images/portfolio/IMG_9035.JPG'
         #link: https://
@@ -33,8 +33,8 @@ portfolioitems:
         #status: 'Finished'
         #description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         #tags:
-          - Tag 1
-          - Tag 2
+          #- Tag 1
+          #- Tag 2
   # portfolio category
   #- title: 2
     #description: '準備中…'
